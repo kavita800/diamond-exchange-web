@@ -1,0 +1,54 @@
+# See https://help.github.com/ignore-files/ for more about ignoring files.
+
+# dependencies
+/node_modules
+/nodeapi/node_modules
+/admin/node_modules
+/coverage
+
+# production
+/build
+
+# misc
+.DS_Store
+.env
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# nodeapi
+
+# dependencies
+/nodeapi/node_modules
+
+# testing
+/nodeapi/coverage
+
+# production
+/nodeapi/build
+
+# misc
+.DS_Store
+.env
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# admin
+
+# dependencies
+/admin/node_modules
+
+# testing
+/admin/coverage
+
+# production
+/admin/build
+
+# misc
+.DS_Store
+.env
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
