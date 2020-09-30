@@ -15,7 +15,7 @@ import socketIOClient from "socket.io-client";
 
   
 var CryptoJS = require("crypto-js");
-const ENDPOINT = "http://172.105.40.76:4006";
+const ENDPOINT = "http://18.159.217.229:4006";
 
 const $ = window.$;
 const baseUrl = Url.baseUrl;

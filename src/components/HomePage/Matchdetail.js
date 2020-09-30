@@ -803,7 +803,7 @@ class Index extends Component {
 		
 		// $(".blockUI").show();
 		//this.callMatchOddsApi();
-		const ENDPOINT = "http://172.105.40.76:4004/";
+		const ENDPOINT = "http://18.159.217.229:4004/";
 		 let matchid = this.props.match.params.id;
 		//  const socket = socketIOClient(ENDPOINT);
 		//  socket.on("FromAPI4", data => {
@@ -3686,7 +3686,7 @@ else{
 
 	showVideo=()=>{
 		if(this.state.showVideo===true) {	
-			return <iframe src={"https://new.apple365.bet/tvsetting/getMatchTvFeedApi/"+this.state.currentMatchId+"/172.105.40.76"}></iframe>
+			return <iframe src={"https://new.apple365.bet/tvsetting/getMatchTvFeedApi/"+this.state.currentMatchId+"/18.159.217.229"}></iframe>
 		}
 		else {
 			return <div>&nbsp;</div>

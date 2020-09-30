@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import {Link,Redirect} from "react-router-dom";
 import axios from "axios";
 import Moment from 'moment';
-const baseUrl = "http://172.105.40.76:4000";
+const baseUrl = "http://18.159.217.229:4000";
 const $ = window.$;
 class Sidebar extends Component {
 	constructor(props) {

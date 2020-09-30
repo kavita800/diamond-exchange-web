@@ -12,7 +12,7 @@ import 'react-confirm-alert/src/react-confirm-alert.css';
 import DatePicker from "react-datepicker";
 import "react-datepicker/dist/react-datepicker.css";
 const $ = window.$;
-const baseUrl = "http://172.105.40.76:4000"; 
+const baseUrl = "http://18.159.217.229:4000"; 
 
 
 

@@ -15,7 +15,7 @@ import Modal from "react-bootstrap-modal";
 
 import socketIOClient from "socket.io-client";
 var CryptoJS = require("crypto-js");
-const ENDPOINT = "http://172.105.40.76:4007";
+const ENDPOINT = "http://18.159.217.229:4007";
 const $ = window.$;
 const baseUrl = Url.baseUrl;
 

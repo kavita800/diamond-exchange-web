@@ -16,7 +16,7 @@ import Modal from "react-bootstrap-modal";
 
   
 var CryptoJS = require("crypto-js");
-const ENDPOINT = "http://172.105.40.76:4008";
+const ENDPOINT = "http://18.159.217.229:4008";
 
 const $ = window.$;
 const baseUrl = Url.baseUrl;
